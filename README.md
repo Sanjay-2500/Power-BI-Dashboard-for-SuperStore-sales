@@ -30,3 +30,5 @@ Technology and Home Office have on average a high profit margin, while Furniture
 The Consumer segment is driving most of the Superstore's sales and across all segments Technology is contributing the most to revenue.
 Over 50% of their profit is being made in California and New York. This makes this store quite geographically dependent on keeping up their sales here.
 Their sales in Texas (which is their 3rd highest state in sales) is on aggregate making a loss.
+
+Skills --> Advance Excel, Power BI.
